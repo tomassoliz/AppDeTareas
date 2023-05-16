@@ -1,0 +1,38 @@
+[
+   {
+      "id": "fd3ebfe0-caf3-4cf1-be01-11682d411871",
+      "titulo": "Introduccion a NodeJS",
+      "estado": "terminada",
+      "fecha": "2023-05-12T17:49:56.739Z"
+   },
+   {
+      "id": "e1ea8b7c-febf-432d-9418-a62256efb6eb",
+      "titulo": "Entrega de trabajos",
+      "estado": "terminada",
+      "fecha": "2023-05-12T17:50:16.651Z"
+   },
+   {
+      "id": "fe48a055-2aa3-44ed-b30e-48171e0bd604",
+      "titulo": "Repaso de NodeJs",
+      "estado": "terminada",
+      "fecha": "2023-05-12T18:08:31.817Z"
+   },
+   {
+      "id": "2c237430-bdc5-499f-9da7-ac2da92c5187",
+      "titulo": "Terminar Playground",
+      "estado": "en progreso",
+      "fecha": "2023-05-12T18:08:49.945Z"
+   },
+   {
+      "id": "f412920f-d827-47b6-969e-83db7de8eed5",
+      "titulo": "Primer modulo",
+      "estado": "pendiente",
+      "fecha": "2023-05-12T18:09:21.061Z"
+   },
+   {
+      "id": "589abfb7-373f-4826-baad-c7f7fd95ce8e",
+      "titulo": "Recibimiento de notas",
+      "estado": "pendiente",
+      "fecha": "2023-05-12T18:14:24.750Z"
+   }
+]
